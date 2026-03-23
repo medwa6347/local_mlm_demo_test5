@@ -1,0 +1,58 @@
+plant_id,plant_name,tier,prompt_text,llm_output,inference_seconds,prompt_tokens,completion_tokens,total_tokens
+4040,Port Washington Generating Station,bronze,"You are supporting a technical sales team at an industrial services company.
+Write a concise, factual plant profile from the bullets below.
+Focus on generator count/type/age and emissions-control count/type/age.
+Highlight likely maintenance, retrofit, turnaround, catalyst, and balance-of-plant service opportunities.
+Use 2 short paragraphs plus a final bullet list of 3-5 actionable sales angles.
+
+Plant context bullets:
+- Plant: Port Washington Generating Station (4040) in Port Washington, WI.
+- Utility owner: Wisconsin Electric Power Co.
+- Generators: 6 total, including 6 natural-gas units. Operating age range 18-21 years, average 19.5 years.
+- Generator mix: 4 x Natural Gas / Combined Cycle Combustion Turbine, avg age 19.5 years.
+- Generator mix: 2 x Natural Gas / Combined Cycle Steam Turbine, avg age 19.5 years.
+- Emissions controls: 4 devices. In-service age range 18-18 years, average 18.0 years.
+- Emissions mix: 4 x Selective catalytic reduction, avg age 18.0 years.
+- Emissions control status: Operating (in commercial service or out of service less than 365 days): 4.","The Port Washington Generating Station (4040) in Port Washington, WI, is owned by Wisconsin Electric Power Co. and consists of six generators, including four natural-gas units with a combined cycle combustion turbine and steam turbine mix, all averaging 19.5 years in operation. The station's emissions controls are comprised of four selective catalytic reduction devices, which have been in service for an average of 18 years.
+
+
+Maintenayer opportunities at the Port Washington Generating Station include servicing and retrofitting the aging natural-gas units with combined cycle combustion turbines and steam turbines. Given their average age of 19.5 years, these generators are likely due for maintenance or potential upgrades to improve efficiency and performance. Additionally, the selective catalytic reduction devices installed as emissions controls have been in service for an average of 18 years; this presents opportunities for retrofitting with newer technology to enhance emission control",21.729,329,220,549
+55364,Sugar Creek Power,bronze,"You are supporting a technical sales team at an industrial services company.
+Write a concise, factual plant profile from the bullets below.
+Focus on generator count/type/age and emissions-control count/type/age.
+Highlight likely maintenance, retrofit, turnaround, catalyst, and balance-of-plant service opportunities.
+Use 2 short paragraphs plus a final bullet list of 3-5 actionable sales angles.
+
+Plant context bullets:
+- Plant: Sugar Creek Power (55364) in West Terre Haute, IN.
+- Utility owner: Northern Indiana Pub Serv Co.
+- Generators: 3 total, including 3 natural-gas units. Operating age range 23-24 years, average 23.7 years.
+- Generator mix: 2 x Natural Gas / Combined Cycle Combustion Turbine, avg age 24.0 years.
+- Generator mix: 1 x Natural Gas / Combined Cycle Steam Turbine, avg age 23.0 years.
+- Emissions controls: 2 devices. In-service age range 23-23 years, average 23.0 years.
+- Emissions mix: 2 x Selective catalytic reduction, avg age 23.0 years.
+- Emissions control status: Operating (in commercial service or out of service less than 365 days): 2.","Sugar Creek Power, located in West Terre Haute, IN and owned by Northern Indiana Pub Serv Co., operates three generators with a mix of natural gas units. The plant's generator fleet consists of two combined cycle combustion turbines averaging 24 years old and one combined cycle steam turbine averaging 23 years old. All generators are currently in service, with an average operating age of approximately 23.7 years.
+
+The facility is equipped with two emissions control devices, both selective catalytic reduction systems, which have been in service for about 23 years on average and less than a year out of service. The plant's current status indicates that all generators are actively contributing to the power supply while maintaining compliance with environmental regulations.
+ayer-of-service opportunities:
+- Maintenance services for aging natural gas combustion turbines and steam turbine, focusing on reliability and efficiency improvements.
+- Retrofit options for em",19.304,332,220,552
+55514,Apex Generating Station,bronze,"You are supporting a technical sales team at an industrial services company.
+Write a concise, factual plant profile from the bullets below.
+Focus on generator count/type/age and emissions-control count/type/age.
+Highlight likely maintenance, retrofit, turnaround, catalyst, and balance-of-plant service opportunities.
+Use 2 short paragraphs plus a final bullet list of 3-5 actionable sales angles.
+
+Plant context bullets:
+- Plant: Apex Generating Station (55514) in Las Vegas, NV.
+- Utility owner: Apex Generating Station.
+- Generators: 3 total, including 3 natural-gas units. Operating age range 23-23 years, average 23.0 years.
+- Generator mix: 2 x Natural Gas / Combined Cycle Combustion Turbine, avg age 23.0 years.
+- Generator mix: 1 x Natural Gas / Combined Cycle Steam Turbine, avg age 23.0 years.
+- Emissions controls: 2 devices. In-service age range 23-23 years, average 23.0 years.
+- Emissions mix: 2 x Selective catalytic reduction, avg age 23.0 years.
+- Emissions control status: Operating (in commercial service or out of service less than 365 days): 2.","Apex Generating Station, located in Las Vegas, Nevada, is a 555 MW facility owned by the utility company. The plant comprises three generators, all of which are natural-gas units with an average operating age of 23 years. These include two combined cycle combustion turbines and one combined cycle steam turbine.
+
+The station is equipped with two emissions control devices, both selective catalytic reduction systems (SCR), also averaging 23 years in service. Currently, all SCR units are operational, having been in commercial service or out of service for less than a year.
+
+Maintenayer opportunities include routine maintenance and inspection of the generators and emissions control devices due to their age. Retrofit possibilities may involve upgrading older equipment with newer technology to improve efficiency and reduce emissions. Turnaround services could be offered during planned outages, while catalyst replacement or regeneration might also present opportunities. Additionally, balance-of-plant service such",19.623,334,220,554

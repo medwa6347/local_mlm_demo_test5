@@ -1,0 +1,89 @@
+2026-03-23 12:40:27,277 | INFO | Run started | tier=silver | params={'n_ctx': 3072, 'max_tokens': 320, 'temperature': 0.3, 'top_p': 0.9, 'repeat_penalty': 1.1, 'n_threads': 6}
+2026-03-23 12:40:27,277 | INFO | Model path: C:\models\Phi-3-mini-4k-instruct-q4.gguf
+2026-03-23 12:40:27,495 | INFO | Eligible plants with NG+SCR: 394
+2026-03-23 12:40:27,496 | INFO | Selected plant count: 3 | IDs: [4040, 55364, 55514]
+2026-03-23 12:40:29,272 | INFO | Plant 4040 | prompt begin
+You are supporting a technical sales team at an industrial services company.
+Write a concise, factual plant profile from the bullets below.
+Focus on generator count/type/age and emissions-control count/type/age.
+Highlight likely maintenance, retrofit, turnaround, catalyst, and balance-of-plant service opportunities.
+Use 2 short paragraphs plus a final bullet list of 3-5 actionable sales angles.
+
+Plant context bullets:
+- Plant: Port Washington Generating Station (4040) in Port Washington, WI.
+- Utility owner: Wisconsin Electric Power Co.
+- Generators: 6 total, including 6 natural-gas units. Operating age range 18-21 years, average 19.5 years.
+- Generator mix: 4 x Natural Gas / Combined Cycle Combustion Turbine, avg age 19.5 years.
+- Generator mix: 2 x Natural Gas / Combined Cycle Steam Turbine, avg age 19.5 years.
+- Emissions controls: 4 devices. In-service age range 18-18 years, average 18.0 years.
+- Emissions mix: 4 x Selective catalytic reduction, avg age 18.0 years.
+- Emissions control status: Operating (in commercial service or out of service less than 365 days): 4.
+Plant 4040 | prompt end
+2026-03-23 12:42:19,638 | INFO | Plant 4040 | inference_sec=110.36 | usage={'prompt_tokens': 329, 'completion_tokens': 314, 'total_tokens': 643} | response begin
+The Port Washington Generating Station (4040) in Port Washington, WI is owned by Wisconsin Electric Power Co. and consists of 6 generators with a mix of natural-gas units including 4 Combined Cycle Combustion Turbine and 2 Combined Cycle Steam Turbine generators, all averaging an operating age of 19.5 years. The station's emissions controls include 4 Selective Catalytic Reduction devices with an average in-service age of 18 years.
+
+With the majority of the plant's equipment being over a decade old and still operational, there are numerous opportunities for maintenance, retrofit, turnaround, catalyst replacement, and balance-of-plant service. The emissions control devices have been in commercial service for nearly two decades, indicating potential wear and tear or efficiency decline that could be addressed through upgrades or replacements.
+
+Key Sales Angles:
+- Maintenance opportunities for aging natural gas combustion turbines (4x) and steam turbines (2x), with an average age of 19.5 years.
+- Retrofit options to improve efficiency, reduce emissions or extend the life of existing equipment.
+- Turnaround services for Selective Catalytic Reduction devices (4x) with an in-service age range of 18 years and potential upgrades for improved performance.
+Plant 4040 | response end
+2026-03-23 12:42:19,647 | INFO | Plant 55364 | prompt begin
+You are supporting a technical sales team at an industrial services company.
+Write a concise, factual plant profile from the bullets below.
+Focus on generator count/type/age and emissions-control count/type/age.
+Highlight likely maintenance, retrofit, turnaround, catalyst, and balance-of-plant service opportunities.
+Use 2 short paragraphs plus a final bullet list of 3-5 actionable sales angles.
+
+Plant context bullets:
+- Plant: Sugar Creek Power (55364) in West Terre Haute, IN.
+- Utility owner: Northern Indiana Pub Serv Co.
+- Generators: 3 total, including 3 natural-gas units. Operating age range 23-24 years, average 23.7 years.
+- Generator mix: 2 x Natural Gas / Combined Cycle Combustion Turbine, avg age 24.0 years.
+- Generator mix: 1 x Natural Gas / Combined Cycle Steam Turbine, avg age 23.0 years.
+- Emissions controls: 2 devices. In-service age range 23-23 years, average 23.0 years.
+- Emissions mix: 2 x Selective catalytic reduction, avg age 23.0 years.
+- Emissions control status: Operating (in commercial service or out of service less than 365 days): 2.
+Plant 55364 | prompt end
+2026-03-23 12:42:45,951 | INFO | Plant 55364 | inference_sec=26.30 | usage={'prompt_tokens': 332, 'completion_tokens': 320, 'total_tokens': 652} | response begin
+Sugar Creek Power, owned by Northern Indiana Public Service Company and located in West Terre Haute, IN, operates a total of three generators. The plant's generator mix consists of two natural-gas units: one is a Combined Cycle Combustion Turbine (CCCT) with an average age of 24 years, while the other is a Combined Cycle Steam Turbine averaging 23 years in operation. The plant's emissions controls comprise two Selective Catalytic Reduction (SCR) devices, both having been installed around 23 years ago and currently operational within their expected service life.
+
+
+Given the average ages of the generators and SCR devices at Sugar Creek Power, there are significant opportunities for maintenance, retrofit, turnaround, catalyst replacement, and balance-of-plant services. The natural-gas CCCT unit's age suggests a potential need for engine overhauls or component replacements to maintain optimal performance levels. Similarly, the steam turbine may require attention on its boiler components due to its slightly younger operational status compared to the CCCT. The SCR devices are also approaching their midpoint in service life, indicating an opportunity for catalyst replacement and system optimization to ensure continued compliance with emissions regulations.
+
+
+Actionable Sales Angles:
+- Engine overhaul services or component replacements for the 24-year-old CCCT unit.
+- Boiler
+Plant 55364 | response end
+2026-03-23 12:42:45,959 | INFO | Plant 55514 | prompt begin
+You are supporting a technical sales team at an industrial services company.
+Write a concise, factual plant profile from the bullets below.
+Focus on generator count/type/age and emissions-control count/type/age.
+Highlight likely maintenance, retrofit, turnaround, catalyst, and balance-of-plant service opportunities.
+Use 2 short paragraphs plus a final bullet list of 3-5 actionable sales angles.
+
+Plant context bullets:
+- Plant: Apex Generating Station (55514) in Las Vegas, NV.
+- Utility owner: Apex Generating Station.
+- Generators: 3 total, including 3 natural-gas units. Operating age range 23-23 years, average 23.0 years.
+- Generator mix: 2 x Natural Gas / Combined Cycle Combustion Turbine, avg age 23.0 years.
+- Generator mix: 1 x Natural Gas / Combined Cycle Steam Turbine, avg age 23.0 years.
+- Emissions controls: 2 devices. In-service age range 23-23 years, average 23.0 years.
+- Emissions mix: 2 x Selective catalytic reduction, avg age 23.0 years.
+- Emissions control status: Operating (in commercial service or out of service less than 365 days): 2.
+Plant 55514 | prompt end
+2026-03-23 12:43:12,188 | INFO | Plant 55514 | inference_sec=26.23 | usage={'prompt_tokens': 334, 'completion_tokens': 320, 'total_tokens': 654} | response begin
+Apex Generating Station, located in Las Vegas, Nevada and owned by the utility company of the same name, operates with a total of three generators. The plant's generator mix consists of two natural-gas units - one being a Combined Cycle Combustion Turbine (CCCT) unit and another being a Combined Cycle Steam Turbine (CCST). Both CCCT and CCST units have an average operating age of 23 years.
+
+The plant also has two emissions control devices, specifically Selective Catalytic Reduction (SCR) systems, which are currently in service with a similar average age of 23 years. All the generators and emission controls at Apex Generating Station have been operating for an average of 23 years, indicating potential maintenance needs or opportunities for retrofit services to ensure optimal performance and compliance with environmental regulations.
+ Written as:
+
+Apex Generating Station in Las Vegas, Nevada operates three generators - two natural-gas units (CCCT & CCST) averaging 23 years of age, along with emissions controls consisting of SCR systems also at an average age of 23 years. The plant's equipment is well-established but may require maintenance or retrofit services to optimize performance and ensure environmental compliance.
+
+Maintenance opportunities include regular inspections, part replacements, and system upgrades for the generators and
+Plant 55514 | response end
+2026-03-23 12:43:12,193 | INFO | Run complete | plants=3 | elapsed_sec=164.92
+2026-03-23 12:43:12,193 | INFO | CSV output: C:\Users\medwa\local_mlm_demo_test5\outputs\plant_descriptors_silver_20260323_124027.csv
+2026-03-23 12:43:12,193 | INFO | Log output: C:\Users\medwa\local_mlm_demo_test5\outputs\plant_descriptors_silver_20260323_124027.log
